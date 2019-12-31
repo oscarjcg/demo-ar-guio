@@ -13,9 +13,8 @@
     <img style="padding: 2px;" src="images/3.jpg" alt="Image 3"	title="Preview" height="200"/>
 </p>
 
-
+**Cuadros objetivo de la realidad aumentada**:
 <p align="center">
-    Cuadros objetivo de la realidad aumentada:
     <img style="padding: 2px;" src="images/target1.jpg" alt="Image 4"	title="Preview" width="300"/>
     <img style="padding: 2px;" src="images/target2.jpg" alt="Image 5"    title="Preview" width="180"/>
 </p> 
