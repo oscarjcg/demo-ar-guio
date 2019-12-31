@@ -1,9 +1,9 @@
 # **Demo AR guio**
 ### App prototipo para la interacción con cuadros y modelos 3D en un museo mediante Vuforia en Unity.
 
-**Demo (Video)**: 
+**Demo (Video)**: https://www.youtube.com/watch?v=IyQU8vncpcU
 
-**App (Android)**: 
+**App (Android)**: https://github.com/oscarjcg/demo-ar-guio/tree/master/APK
 
 **Fecha**: Enero, 2019
 
@@ -24,7 +24,7 @@
 
 **Características**:
 * Menú que ofrece información sobre el museo
-* La información es obtenida proporcionada por el backend del museo
+* La información es proporcionada por el backend del museo
 * Visita interactiva:
     * Modelo 3D controlable mediante botones de desplazamiento y rotación
 
